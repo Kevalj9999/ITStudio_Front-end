@@ -2,7 +2,8 @@ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import Popup from 'reactjs-popup';
 import 'reactjs-popup/dist/index.css';
-const HOME_URL = "https://it-studio-project-git-main-kevalj9999.vercel.app/";
+const HOME_URL = "https://it-studio-git-main-kevalj9999.vercel.app/";
+// const HOME_URL = "http://localhost:5000/";
 
 const style1 = {
     textAlign: "center",
